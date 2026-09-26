@@ -1,4 +1,4 @@
-package com.khai.dict._01_primitive_types;
+package com.khai.dict._03_primitive_types;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
@@ -231,7 +231,7 @@ public class Main {
         // Boxing
         // Boxing: creating an object from a primitive
         int a0 = 5;
-        Integer b0 = new Integer(a0);     // Integer - often called wrapper
+        //Integer b0 = new Integer(a0);     // Integer - often called wrapper
 
         // Unboxing
         Integer a1 = 10;
